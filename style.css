@@ -1,0 +1,12 @@
+/* Estilo global */
+* {
+    box-sizing: border-box;
+    padding: 10;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+ *{
+    background-color: #8ac3da;
+    color: rgb(0, 0, 0);
+ }
